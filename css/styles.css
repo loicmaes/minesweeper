@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  grid-gap: 1em;
+  flex-direction: column;
+  background-color: hsl(88, 38%, 15%);
+}
+
+/*# sourceMappingURL=styles.css.map */

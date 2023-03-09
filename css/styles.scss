@@ -1,0 +1,11 @@
+@use "colors";
+@forward "parts/header";
+@forward "parts/playground";
+@forward "parts/stats";
+
+body {
+  display: flex;
+  grid-gap: 1em;
+  flex-direction: column;
+  background-color: colors.$dark-green;
+}
